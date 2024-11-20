@@ -28,7 +28,7 @@
 
 <br/>
 
-## ✉ Onde me Encontrar
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-gabriel-gomes-luz-0318862a0/)](https://www.linkedin.com/in/carlos-gabriel-gomes-luz-0318862a0/)
 [![Gmail Badge](https://img.shields.io/badge/-carlosgabriel.contato2007@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosgabriel.contato2007@gmail.com)](mailto:carlosgabriel.contato2007@gmail.com)
