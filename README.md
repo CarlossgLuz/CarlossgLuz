@@ -31,4 +31,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-carlosgabriel.contato2007@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosgabriel.contato2007@gmail.com)](mailto:carlosgabriel.contato2007@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/CarlossgLuz?label=follow&style=social)](https://github.com/CarlossgLuz)
 
+<\br>
+
 ![](https://komarev.com/ghpvc/?username=CarlossgLuz&color=006bed)
