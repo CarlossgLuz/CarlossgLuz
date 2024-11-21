@@ -1,3 +1,4 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeh_l02A_YGCc8SZ8-uDdD-mf3Kk2CLoJpbw&s" alt="ilustração de ola" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Sobre mim
 
