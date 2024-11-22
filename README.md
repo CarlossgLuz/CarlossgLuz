@@ -3,7 +3,7 @@
 
 - 🤔 Explorando e aprendendo novas tecnologias.
 - 🎓 Estudando Desenvolvimento de Sistemas no Senai.
-- 🌱 Flûencia em Inglês Intermédiario.
+- 🌱 Fluência em Inglês Intermédiario.
 
 </br>
 
