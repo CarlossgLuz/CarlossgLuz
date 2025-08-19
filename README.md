@@ -1,6 +1,6 @@
 # 👋 Sobre Mim
 
-🎓 Estudante de **Desenvolvimento de Sistemas - SENAI**  
+🎓 Técnico em **Desenvolvimento de Sistemas - SENAI**  
 💻 Técnico em **Informática para Internet - Proz**  
 
 ---
