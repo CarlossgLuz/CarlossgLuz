@@ -1,28 +1,30 @@
+# 👋 Olá, eu sou o Carlos Gabriel
 
-## Sobre mim
+🎓 Estudante de **Desenvolvimento de Sistemas - SENAI**  
+💻 Técnico em **Informática para Internet - Proz**  
 
-- 🤔 Explorando e aprendendo novas tecnologias.
-- 🎓 Estudando Desenvolvimento de Sistemas no Senai.
-- 🌱 Fluência em Inglês Intermédiario.
+---
 
-</br>
+## 🛠️ Skills
+- **Linguagens:** Java · Python · JavaScript · SQL · HTML · CSS  
+- **Ferramentas:** Git · GitHub · VS Code · Figma · MySQL · Canva
+- **Bibliotecas:** NumPy · Pandas · Streamlit
 
-## Minhas Skills
+---
 
-**💻 Linguagens**
+## 🌱 Sobre mim
+Indo atrás de aprender mais sobre a área de **Tecnologia** e **Desenvolvimento**.  
+Em busca da minha **Primeira Oportunidade na área de TI**,  
+para aplicar meus conhecimentos em projetos práticos e aprender junto a uma equipe colaborativa.  
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="JAVA"/></code>
+---
 
-</br>
+## 📊 GitHub Stats
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
-## Contato
+---
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSKkkLWhgbRPkzfwmNlFbKRSQlxhtrlxgZstntCwDfMtVsXvtcbgqPlbDsBbpWgBppFSJzTr" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-gabriel-gomes-luz-0318862a0/" alt="LinkedIn"/></a>
-</p>
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/carlos-gabriel-gomes-luz-0318862a0) ·  
+📧 carlosgabriel.contato2007@gmail.com
