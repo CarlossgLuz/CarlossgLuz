@@ -8,7 +8,7 @@
 ## 🛠️ Skills
 - **Linguagens:** Java · Python · JavaScript · SQL · HTML · CSS  
 - **Ferramentas:** Git · GitHub · VS Code · Figma · MySQL · Canva
-- **Bibliotecas:** NumPy · Pandas · Streamlit
+- **Bibliotecas:** NumPy · Pandas · Streamlit · Sqlite3 · Json · FastAPI · Requests
 
 ---
 
