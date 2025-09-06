@@ -3,7 +3,9 @@
 <img src="./images/hello_world.png" alt="banner hello world" min-width="100%" max-width="100%" width="100%" align="center">
 <br>
 
-<img src="./images/page.png" alt="ilustração página" min-width="320px" max-width="320px" width="320px" align="right">
+---
+
+<img src="./images/page.png" alt="ilustração da página" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left">
   <strong>Desenvolvedor de Sistemas</strong> atualmente <strong>Full Stack</strong>, apaixonado por Tecnologias e Desenvolvimento. Focado em aprendizado contínuo e de criações de soluções Inovadoras e Agéis.  <br>
@@ -12,7 +14,7 @@
 ---
 
 <div align="left">
-  <h2>Sobre mim</h2>
+  <h3>Sobre mim</h3>
   <p> 🎓 | Técnico em <strong>Desenvolvimento de Sistemas - SENAI</strong></p>
   <p> 🎓 | Técnico em <strong>Informática para Internet - Proz</strong></p>  
   <p> 📖 | Aprendendo sobre <strong>Google Cloud, Microsoft Azure e AWS</strong> </p>
