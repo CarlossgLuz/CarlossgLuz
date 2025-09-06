@@ -1,24 +1,48 @@
-# 👋 Sobre Mim
+<div align="center">
 
-🎓 Técnico em **Desenvolvimento de Sistemas - SENAI**  
-💻 Técnico em **Informática para Internet - Proz**  
-
----
-
-## 🛠️ Skills
-- **Linguagens:** Java · Python · JavaScript · SQL · HTML · CSS  
-- **Ferramentas:** Git · GitHub · VS Code · Figma · MySQL · Canva
-- **Bibliotecas:** NumPy · Pandas · Streamlit · Sqlite3 · Json · FastAPI · Requests
+<img src="./images/hello_world.png" alt="banner hello world" min-width="100%" max-width="100%" width="100%" align="center">
 
 ---
 
-## 🌱 Sobre mim
-Indo atrás de aprender mais sobre a área de **Tecnologia** e **Desenvolvimento**.  
-Em busca da minha **Primeira Oportunidade na área de TI**,  
-para aplicar meus conhecimentos em projetos práticos e aprender junto a uma equipe colaborativa.  
+<img src="./images/page.jpg" alt="ilustração página" min-width="420px" max-width="420px" width="420px" align="right">
+
+<p align="left">
+  <strong>Desenvolvedor de Sistemas</strong> atualmente <strong>Full Stack</strong>, apaixonado por Tecnologias e Desenvolvimento. Focado em aprendizado contínuo e de criações de soluções Inovadoras e Agéis.  <br>
+</p>
 
 ---
 
-## 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/carlos-gabriel-gomes-luz-0318862a0) ·  
-📧 carlosgabriel.contato2007@gmail.com
+<div align="left">
+  <h2>Sobre mim</h2>
+  <p> 🎓 | Técnico em <strong>Desenvolvimento de Sistemas - SENAI</strong></p>
+  <p> 🎓 | Técnico em <strong>Informática para Internet - Proz</strong></p>  
+  <p> 📖 | Aprendendo sobre <strong>Google Cloud, Microsoft Azure e AWS</strong> </p>
+  <p> 🖥️ | Gostos voltado a área de <strong>Desenvolvimento Web</strong> e <strong>Front End</strong></p>  
+  <p> 🥇 | Meu principal hobbie é a <strong>Musculação</strong></p>  
+</div>
+
+---
+
+<div align="center">
+  <h2>GitHub Stats </h2>
+</a>
+
+<div align="center">
+<a href="https://github.com/CarlossgLuz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlossgLuz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossgLuz&layout=compact&langs_count=6&theme=tokyonight"/>
+</a>
+
+---
+
+## Tecnologias e Linguagens 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
+
+### Frameworks e Bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,flask,sqlite,mysql)](https://skillicons.dev)
+
+### Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,azure)](https://skillicons.dev)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1b1c28"/>
