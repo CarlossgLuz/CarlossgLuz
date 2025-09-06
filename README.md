@@ -5,13 +5,13 @@
 
 ---
 
-<img src="./images/page.png" alt="ilustração da página" min-width="300px" max-width="300px" width="300px" align="right">
-
-<p align="left">
+<p align="center">
   <strong>Desenvolvedor de Sistemas</strong> atualmente <strong>Full Stack</strong>, apaixonado por Tecnologias e Desenvolvimento. Focado em aprendizado contínuo e de criações de soluções Inovadoras e Agéis.  <br>
 </p>
 
 ---
+
+<img src="./images/page.png" alt="ilustração da página" min-width="300px" max-width="300px" width="300px" align="right">
 
 <div align="left">
   <h3>Sobre mim</h3>
