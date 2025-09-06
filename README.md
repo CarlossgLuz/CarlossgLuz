@@ -20,8 +20,9 @@
   <p> 📖 | Aprendendo sobre <strong>Google Cloud, Microsoft Azure e AWS</strong> </p>
   <p> 🖥️ | Gostos voltado a área de <strong>Desenvolvimento Web</strong> e <strong>Front End</strong></p>  
   <p> 🥇 | Meu principal hobbie é a <strong>Musculação</strong></p>  
+  <br>
 </div>
-<br>
+
 ---
 
 <div align="center">
