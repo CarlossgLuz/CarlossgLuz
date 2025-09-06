@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <strong>Desenvolvedor de Sistemas</strong> atualmente <strong>Full Stack</strong>, apaixonado por Tecnologias e Desenvolvimento. Focado em aprendizado contínuo e de criações de soluções Inovadoras e Agéis.  <br>
+   <strong>Desenvolvedor de Sistemas</strong> atualmente <strong>Full Stack</strong>, apaixonado por novas Tecnologias e Inovações. Focado em aprendizado contínuo, busco aplicar meus conhecimentos e contribuir em <strong>Projetos Reais do Mercado de Trabalho</strong>. Guiado pela Curiosidade e pela Incessante vontade de Aprender, atualmente estou me aventurando no aprendizado de <strong>Computação em Nuvem</strong> em Plataformas como <strong>Google Cloud</strong> e <strong>Azure</strong><br>
 </p>
 
 ---
@@ -46,5 +46,14 @@
 
 ### Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,azure)](https://skillicons.dev)
+
+---
+
+<p align="center">
+  <a href="mailto:rrs.carlosgabriel.contato2007@gmail.com/" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/carlos-gabriel-gomes-luz-0318862a0/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1b1c28"/>
