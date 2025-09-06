@@ -11,7 +11,7 @@
 
 ---
 
-<img src="./images/page.png" alt="ilustração da página" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="./images/page.png" alt="ilustração da página" min-width="250px" max-width="250px" width="250px" align="right">
 
 <div align="left">
   <h3>Sobre mim</h3>
