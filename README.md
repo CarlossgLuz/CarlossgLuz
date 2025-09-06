@@ -1,8 +1,9 @@
 <div align="center">
 
 <img src="./images/hello_world.png" alt="banner hello world" min-width="100%" max-width="100%" width="100%" align="center">
+<br>
 
-<img src="./images/page.png" alt="ilustração página" min-width="420px" max-width="420px" width="420px" align="right">
+<img src="./images/page.png" alt="ilustração página" min-width="320px" max-width="320px" width="320px" align="right">
 
 <p align="left">
   <strong>Desenvolvedor de Sistemas</strong> atualmente <strong>Full Stack</strong>, apaixonado por Tecnologias e Desenvolvimento. Focado em aprendizado contínuo e de criações de soluções Inovadoras e Agéis.  <br>
