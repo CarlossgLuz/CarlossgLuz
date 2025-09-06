@@ -5,13 +5,17 @@
 
 ---
 
+<div align="center">
+  <h2>Resumo Profissional</h2>
+</div>
+
 <p align="center">
    <strong>Desenvolvedor de Sistemas</strong> atualmente <strong>Full Stack</strong>, apaixonado por novas Tecnologias e Inovações. Focado em aprendizado contínuo, busco aplicar meus conhecimentos e contribuir em <strong>Projetos Reais do Mercado de Trabalho</strong>. Guiado pela Curiosidade e pela Incessante vontade de Aprender, atualmente estou me aventurando no aprendizado de <strong>Computação em Nuvem</strong> em Plataformas como <strong>Google Cloud</strong> e <strong>Azure</strong><br>
 </p>
 
 ---
 
-<img src="./images/page.png" alt="ilustração da página" min-width="250px" max-width="250px" width="250px" align="right">
+<img src="./images/page.png" alt="ilustração da página" min-width="250px" max-width="250px" width="250px" margin-left="20px" align="right">
 
 <div align="left">
   <h3>Sobre mim</h3>
