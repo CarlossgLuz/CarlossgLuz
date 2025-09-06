@@ -21,7 +21,7 @@
   <p> 🖥️ | Gostos voltado a área de <strong>Desenvolvimento Web</strong> e <strong>Front End</strong></p>  
   <p> 🥇 | Meu principal hobbie é a <strong>Musculação</strong></p>  
 </div>
-
+<br>
 ---
 
 <div align="center">
