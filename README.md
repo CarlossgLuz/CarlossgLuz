@@ -29,13 +29,14 @@
 
 <div align="center">
   <h2>GitHub Stats </h2>
-</a>
+</div>
 
 <div align="center">
 <a href="https://github.com/CarlossgLuz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlossgLuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossgLuz&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlossgLuz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossgLuz&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
+</div>
 
 ---
 
@@ -58,4 +59,4 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1b1c28"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=272934"/>
