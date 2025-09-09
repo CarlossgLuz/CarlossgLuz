@@ -32,8 +32,8 @@
 
 <div align="center">
 <a href="https://github.com/CarlossgLuz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlossgLuz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossgLuz&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=carlossgluz&theme=tokyonight&show_icons=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossgluz&hide=html&layout=compact&theme=tokyonight"/>
 </a>
 </div>
 
