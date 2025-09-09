@@ -13,7 +13,7 @@
 
 ---
 
-<img src="./images/page.png" alt="ilustração da página" min-width="240px" max-width="240" width="240px" margin-right="40px" align="right">
+<img src="./images/page.png" alt="ilustração da página" min-width="230px" max-width="230" width="230px" margin-right="40px" align="right">
 
 <div align="left">
   <h3>Sobre mim</h3>
@@ -21,8 +21,9 @@
   <p> 🎓 | Técnico em <strong>Informática para Internet - Proz</strong></p>  
   <p> 📖 | Aprendendo sobre <strong>Google Cloud, Microsoft Azure e AWS</strong> </p>
   <p> 🖥️ | Gostos voltado a área de <strong>Desenvolvimento Web</strong> e <strong>Front End</strong></p>  
+  <br>
 </div>
-<br>
+
 ---
 
 <div align="center">
