@@ -29,7 +29,7 @@
 
 <div align="center">
   <h2>GitHub Stats </h2>
-</div>
+</a>
 
 <div align="center">
 <a href="https://github.com/CarlossgLuz">
