@@ -21,7 +21,6 @@
   <p> 🎓 | Técnico em <strong>Informática para Internet - Proz</strong></p>  
   <p> 📖 | Aprendendo sobre <strong>Google Cloud, Microsoft Azure e AWS</strong> </p>
   <p> 🖥️ | Gostos voltado a área de <strong>Desenvolvimento Web</strong> e <strong>Front End</strong></p>  
-  <p> 🥇 | Meu principal hobbie é a <strong>Musculação</strong></p>  
   <br>
 </div>
 
@@ -29,7 +28,7 @@
 
 <div align="center">
   <h2>GitHub Stats </h2>
-</a>
+</div>
 
 <div align="center">
 <a href="https://github.com/CarlossgLuz">
@@ -40,6 +39,8 @@
 
 ---
 
+<div align="center">
+  
 ## Tecnologias e Linguagens 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
@@ -49,6 +50,8 @@
 
 ### Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,azure)](https://skillicons.dev)
+
+</div>
 
 ---
 
