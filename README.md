@@ -21,9 +21,8 @@
   <p> 🎓 | Técnico em <strong>Informática para Internet - Proz</strong></p>  
   <p> 📖 | Aprendendo sobre <strong>Google Cloud, Microsoft Azure e AWS</strong> </p>
   <p> 🖥️ | Gostos voltado a área de <strong>Desenvolvimento Web</strong> e <strong>Front End</strong></p>  
-  <br>
 </div>
-
+<br>
 ---
 
 <div align="center">
