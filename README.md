@@ -17,10 +17,10 @@
 
 <div align="left">
   <h3>Sobre mim</h3>
+  <p></p>
   <p> 🎓 | Técnico em <strong>Desenvolvimento de Sistemas - SENAI</strong></p>
   <p> 🎓 | Técnico em <strong>Informática para Internet - Proz</strong></p>  
-  <p> 📖 | Aprendendo sobre <strong>Google Cloud, Microsoft Azure e AWS</strong> </p>
-  <p> 🖥️ | Gostos voltado a área de <strong>Desenvolvimento Web</strong> e <strong>Front End</strong></p>  
+  <p></p>  
   <br>
 </div>
 
