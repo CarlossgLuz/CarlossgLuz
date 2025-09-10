@@ -17,7 +17,6 @@
 
 <div align="left">
   <h3>Sobre mim</h3>
-  <br><br>
   <p> 🎓 | Técnico em <strong>Desenvolvimento de Sistemas - SENAI</strong></p>
   <p> 🎓 | Técnico em <strong>Informática para Internet - Proz</strong></p>  
   <br><br>
