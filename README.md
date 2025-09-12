@@ -45,7 +45,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
 
 ### Frameworks e Bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,flask,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,sqlite,mysql)](https://skillicons.dev)
 
 ### Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,azure)](https://skillicons.dev)
