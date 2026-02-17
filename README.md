@@ -71,6 +71,7 @@ Atualmente busco minha **primeira oportunidade** como **Aprendiz / Estagiário**
 ## 🎖️ Certificações & Formação Técnica
 
 - **Scrum Foundation Professional (SFPC)** – CertiProf  
+- **Microsoft AZ-900** – Microsoft  
 - **Técnico em Desenvolvimento de Sistemas – SENAI**  
 - **Técnico em Informática para Internet – Proz Educação**  
 - Lista completa de certificados:  
