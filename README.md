@@ -313,7 +313,7 @@ Portfólio profissional construído com foco em **UX/UI, acessibilidade, identid
 
 <br><br>
 
-**Tecnologia em Análise e Desenvimento de Sistemas**  
+**Tecnologia em Análise e Desenvolvimento de Sistemas**  
 Universidade Cidade de São Paulo — **UNICID**  
 `jun/2026 → previsão jun/2027` · Em andamento
 

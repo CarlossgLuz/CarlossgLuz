@@ -10,7 +10,7 @@
 
 <h1>Carlos Gabriel</h1>
 
-<p><strong>Junior Development Analyst · Full Stack</strong></p>
+<p><strong>Junior Systems Development Analyst · Full Stack</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=800&color=93C5FD&background=00000000&center=true&vCenter=true&width=780&height=50&lines=Full-Stack+Development+%E2%80%A2+Product+%E2%80%A2+UX%2FUI;DevOps+%E2%80%A2+Observability+%E2%80%A2+Cloud;AppSec+%E2%80%A2+SAST+%E2%80%A2+SCA+%E2%80%A2+DAST+%E2%80%A2+ASPM;product+%E2%86%92+code+%E2%86%92+security+%E2%86%92+operations" alt="Carlos Gabriel areas of expertise" />
 
@@ -57,7 +57,7 @@ I like understanding the whole delivery: **interface, business logic, data, auth
 │  stack     ts · react · next · python        │
 │  context   data · devops · appsec            │
 │  method    understand · build · validate     │
-╰──────────────────────────────────────────────╯
+╰─────────────────────────────────────────────╯
 ```
 
 <br clear="right">
