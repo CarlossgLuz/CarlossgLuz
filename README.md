@@ -1,39 +1,29 @@
 <!--
-  GitHub Profile — Carlos Gabriel
-  Visual system: terminal / engineering / blue-slate
+  Carlos Gabriel — GitHub Profile
+  visual language: terminal / engineering / blue-slate
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=header&color=0:05070B,38:0B1220,72:172554,100:1D4ED8" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&color=0:05070B,40:0B1220,72:172554,100:2563EB" alt="" />
 
-<img width="100%" src="./images/hello_world.png" alt="Hello World — Carlos Gabriel" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=93C5FD&background=00000000&center=true&vCenter=true&width=820&height=72&lines=Carlos+Gabriel+%E2%80%94+Development+Analyst+Jr.;Full+Stack+%E2%80%A2+DevOps+%E2%80%A2+AppSec;build+%E2%86%92+validate+%E2%86%92+ship+%E2%86%92+observe" alt="Carlos Gabriel — Analista de Desenvolvimento Jr., Full Stack, DevOps e AppSec" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=93C5FD&background=05070B00&center=true&vCenter=true&width=900&lines=Analista+de+Desenvolvimento+de+Sistemas+Jr.;Full+Stack+%E2%80%A2+DevOps+%E2%80%A2+AppSec;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Python;produto+%E2%86%92+c%C3%B3digo+%E2%86%92+opera%C3%A7%C3%A3o" alt="Perfil profissional de Carlos Gabriel" />
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/dev-carlosgabriel/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://carlosgabriel.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
 <a href="mailto:carlosgabriel.contato2007@gmail.com">
-  <img src="https://img.shields.io/badge/Contato-B3261E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-</a>
-<a href="https://www.credly.com/users/carlos-gabriel.3078ca93">
-  <img src="https://img.shields.io/badge/Credenciais-F59E0B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  <img src="https://img.shields.io/badge/Contato-B3261E?style=flat-square&logo=gmail&logoColor=white" alt="Contato" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/São%20Paulo%2C%20SP-0B1220?style=flat-square&logo=googlemaps&logoColor=93C5FD" alt="São Paulo, SP" />
-<img src="https://img.shields.io/badge/Xmart%20Solutions-Analista%20Jr.-0B1220?style=flat-square&logoColor=white" alt="Xmart Solutions — Analista Jr." />
-<img src="https://img.shields.io/badge/UNICID-ADS-0B1220?style=flat-square&logoColor=white" alt="UNICID — ADS" />
-<img src="https://img.shields.io/badge/English-B2-0B1220?style=flat-square&logoColor=white" alt="Inglês B2" />
+<sub>São Paulo, SP &nbsp;·&nbsp; Xmart Solutions &nbsp;·&nbsp; UNICID &nbsp;·&nbsp; English B2</sub>
 
 </div>
 
@@ -41,400 +31,187 @@
 
 ## `01 // profile`
 
-<table>
-<tr>
-<td width="68%" valign="middle">
+<img align="right" width="180" src="./images/page.png" alt="Ilustração de Carlos Gabriel" />
 
-<h3>Analista de Desenvolvimento de Sistemas Jr. · Full Stack</h3>
+### Analista de Desenvolvimento de Sistemas Jr. · Full Stack
 
-<p>
-Atuo na <strong>Xmart Solutions</strong> desenvolvendo e evoluindo
-<strong>plataforma SaaS, interfaces web e sistemas internos</strong>.
-</p>
+Atuo na **Xmart Solutions** evoluindo **plataforma SaaS, interfaces web e sistemas internos** com foco em produto, qualidade e manutenção sustentável.
 
-<p>
-Minha base está em <strong>TypeScript, JavaScript, React, Next.js e Python</strong>,
-conectando desenvolvimento a <strong>UX/UI, dados, Linux, observabilidade, cloud e AppSec</strong>.
-</p>
+Minha base principal está em **TypeScript, JavaScript, React, Next.js e Python**. No dia a dia, também conecto desenvolvimento a **Linux, observabilidade, cloud e AppSec**.
 
-<p>
-Tenho perfil generalista: gosto de entender a solução da interface à operação,
-com atenção a <strong>arquitetura, segurança, observabilidade, documentação e manutenção</strong>.
-</p>
+```text
+┌─ carlos@engineering ───────────────────────┐
+│ focus  │ product · code · operations       │
+│ stack  │ ts · react · next · python        │
+│ method │ understand · build · validate     │
+└────────────────────────────────────────────┘
+```
 
-<pre>
-┌─ carlos@engineering ───────────────────────────┐
-│ role   → development analyst jr.               │
-│ scope  → full stack · devops · appsec          │
-│ method → understand · build · validate · ship  │
-└────────────────────────────────────────────────┘
-</pre>
+<sub>Gosto de entender a solução inteira — interface, regra de negócio, dados, deploy, segurança, observabilidade e operação.</sub>
 
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="./images/page.png" width="210" alt="Ilustração do perfil de Carlos Gabriel" />
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ---
 
-## `02 // capabilities`
+## `02 // toolkit`
 
 <div align="center">
-<sub>O que eu conecto para entregar software de ponta a ponta.</sub>
+
+**CORE DEVELOPMENT**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,html,css,tailwind" alt="Tecnologias de desenvolvimento" />
+
+<br><br>
+
+**DATA · PLATFORM · OPERATIONS**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,git,github,linux,docker,aws,azure,gcp" alt="Tecnologias de dados, plataforma e operações" />
+
+<br><br>
+
+<code>React Native</code> · <code>Expo</code> · <code>Prisma</code> · <code>REST APIs</code> · <code>Proxmox</code> · <code>Zabbix</code> · <code>Grafana</code> · <code>Prometheus</code>
+
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3><code>&lt;/&gt;</code> Desenvolvimento</h3>
-<p><strong>React · Next.js · TypeScript · JavaScript · Python</strong></p>
-<p>Interfaces, aplicações web, APIs, integrações, mobile, UX/UI, testes e documentação técnica.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><code>DB</code> Dados &amp; Aplicações</h3>
-<p><strong>PostgreSQL · SQLite · Supabase · Prisma</strong></p>
-<p>Persistência, modelagem, autenticação, RBAC, validações e logs de auditoria.</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3><code>OPS</code> Operação &amp; Confiabilidade</h3>
-<p><strong>Linux · Proxmox · Docker · Cloud</strong></p>
-<p>Troubleshooting, deploy, virtualização, Zabbix, Grafana e Prometheus.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><code>SEC</code> AppSec</h3>
-<p><strong>Sonatype Nexus · XGuardian · DevSecOps</strong></p>
-<p>Segurança de aplicações, Supply Chain Security, controle de acesso e análise de riscos.</p>
-
-</td>
-</tr>
-</table>
+**Desenvolvimento** — aplicações web/mobile, APIs, integrações, UX/UI, testes e documentação.  
+**Dados** — PostgreSQL, SQLite, Supabase, Prisma, autenticação, RBAC e auditoria.  
+**Operações** — Linux, virtualização, troubleshooting, deploy, cloud e observabilidade.  
+**Segurança** — AppSec, Supply Chain Security, Sonatype Nexus, XGuardian e práticas DevSecOps.
 
 ---
 
-## `03 // stack`
+## `03 // experience`
 
-<div align="center">
+### Xmart Solutions
 
-<sub>CORE DEVELOPMENT</sub>
+**Analista de Desenvolvimento de Sistemas Jr.** `jun/2026 → atual`
 
-<br><br>
+Desenvolvimento e manutenção de **plataforma SaaS, páginas, fluxos e sistemas internos** com Python, JavaScript/TypeScript e React.
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,html,css,tailwind" alt="Stack de desenvolvimento" />
+- Redesign da interface do **XGuardian** e desenvolvimento de sua página institucional.
+- Administração e troubleshooting de **Linux + Proxmox**.
+- Observabilidade com **Zabbix, Grafana e Prometheus**.
+- Atuação próxima a **AppSec e Supply Chain Security** com Sonatype Nexus e XGuardian.
+- Documentação técnica e padronização de processos.
 
-<br><br>
+**Estagiário de Desenvolvimento de Sistemas** `dez/2025 → jun/2026`
 
-<sub>DATA · PLATFORM · OPERATIONS</sub>
+Atuação inicial em desenvolvimento web, suporte, infraestrutura, observabilidade e segurança de aplicações.
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,git,github,linux,docker,aws,azure,gcp" alt="Stack de dados, plataforma e operações" />
-
-<br><br>
-
-<code>React Native</code> · <code>Expo</code> · <code>Prisma</code> · <code>REST APIs</code> ·
-<code>Zabbix</code> · <code>Grafana</code> · <code>Prometheus</code> · <code>Proxmox</code>
-
-</div>
+> **Progressão:** Estagiário → Analista Jr. em junho de 2026.
 
 ---
 
-## `04 // experience`
+## `04 // selected work`
 
-<div align="center">
-<sub>DESENVOLVIMENTO + PRODUTO + OPERAÇÃO</sub>
-</div>
+### Toca dos Pés
+`FULL STACK` · `FREELANCE` · `STAGING`
+
+Sistema de gestão para uma clínica de podologia, centralizando **agenda, clientes, profissionais, estoque, financeiro, prontuários e relatórios**.
+
+**Atuação:** concepção, arquitetura e desenvolvimento Full Stack.  
+**Stack:** `Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `RBAC` `Vercel`  
+**Entregas:** autenticação, controle de acesso, cadastros centrais, agenda inicial, auditoria e validações client/server.
+
+<sub>Ambiente privado de homologação para proteção de dados e acessos do cliente.</sub>
 
 <br>
 
-<table>
-<tr>
-<td width="24%" valign="top">
+### Clarium
+`MOBILE` · `LOCAL-FIRST` · `PUBLISHED`
 
-<strong>jun/2026 → atual</strong>
-<br><br>
-<code>CURRENT</code>
+Aplicativo de finanças pessoais para **receitas, despesas, cartão, planejamento mensal e indicadores**, com persistência local e landing multilíngue.
 
-</td>
-<td width="76%" valign="top">
+**Stack:** `React Native` `Expo` `TypeScript` `SQLite` `Next.js` `Tailwind CSS`
 
-<h3>Xmart Solutions · Analista de Desenvolvimento de Sistemas Jr.</h3>
-
-<p>
-Desenvolvimento e manutenção de <strong>plataforma SaaS, páginas, fluxos e sistemas internos</strong>
-com Python, JavaScript/TypeScript e React.
-</p>
-
-<ul>
-<li>Redesign da interface do <strong>XGuardian</strong> e desenvolvimento de sua página institucional.</li>
-<li>Administração e troubleshooting de <strong>Linux + Proxmox</strong>.</li>
-<li>Observabilidade com <strong>Zabbix, Grafana e Prometheus</strong>.</li>
-<li>Atuação próxima a <strong>AppSec e Supply Chain Security</strong> com Sonatype Nexus e XGuardian.</li>
-<li>Documentação técnica e padronização de processos.</li>
-</ul>
-
-</td>
-</tr>
-<tr>
-<td width="24%" valign="top">
-
-<strong>dez/2025 → jun/2026</strong>
-<br><br>
-<code>START</code>
-
-</td>
-<td width="76%" valign="top">
-
-<h3>Xmart Solutions · Estagiário de Desenvolvimento de Sistemas</h3>
-
-<p>
-Atuação em desenvolvimento web, infraestrutura, suporte, observabilidade e segurança de aplicações,
-com evolução para <strong>Analista Jr. em junho de 2026</strong>.
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## `05 // selected_work`
-
-<div align="center">
-<sub>Projetos que mostram contexto, arquitetura e entrega — não apenas código.</sub>
-</div>
+[**Abrir projeto ↗**](https://clarium.vercel.app/) ·
+[App ↗](https://github.com/CarlossgLuz/controle-fatura) ·
+[Landing ↗](https://github.com/CarlossgLuz/landingpage_clarium)
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Portfólio Profissional
+`WEB` · `MULTILINGUAL` · `PRODUCTION`
 
-<h3>Toca dos Pés</h3>
+Portfólio com foco em **UX/UI, acessibilidade, identidade visual, SEO técnico e performance**, disponível em português, inglês e espanhol.
 
-<p><code>FULL STACK</code> <code>FREELANCE</code> <code>STAGING</code></p>
+**Stack:** `HTML` `CSS` `JavaScript` `i18n` `SEO` `Netlify`
 
-<p>
-Sistema de gestão para centralizar agenda, clientes, profissionais, estoque,
-financeiro, prontuários e relatórios de uma clínica de podologia.
-</p>
-
-<p><strong>Minha atuação</strong><br>
-Concepção, arquitetura e desenvolvimento Full Stack.</p>
-
-<p><strong>Stack</strong><br>
-<code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Prisma</code>
-<code>PostgreSQL</code> <code>Supabase</code> <code>RBAC</code> <code>Vercel</code></p>
-
-<p><strong>Entregas</strong><br>
-Autenticação, controle de acesso, cadastros centrais, agenda inicial,
-auditoria e validações client/server.</p>
-
-<sub>Ambiente privado de homologação para proteção dos dados e acessos do cliente.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Clarium</h3>
-
-<p><code>MOBILE</code> <code>LOCAL-FIRST</code> <code>PUBLISHED</code></p>
-
-<p>
-Aplicativo de finanças pessoais para receitas, despesas, cartão,
-planejamento mensal e indicadores, com persistência local.
-</p>
-
-<p><strong>Produto</strong><br>
-App mobile + landing page multilíngue para apresentação e distribuição.</p>
-
-<p><strong>Stack</strong><br>
-<code>React Native</code> <code>Expo</code> <code>TypeScript</code>
-<code>SQLite</code> <code>Next.js</code> <code>Tailwind CSS</code></p>
-
-<p>
-<a href="https://clarium.vercel.app/"><strong>Abrir projeto ↗</strong></a> ·
-<a href="https://github.com/CarlossgLuz/controle-fatura">App ↗</a> ·
-<a href="https://github.com/CarlossgLuz/landingpage_clarium">Landing ↗</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td valign="top">
-
-<h3>Portfólio Profissional</h3>
-
-<p><code>WEB</code> <code>MULTILINGUAL</code> <code>PRODUCTION</code></p>
-
-<p>
-Portfólio profissional desenvolvido com foco em <strong>UX/UI, acessibilidade,
-identidade, SEO técnico e performance</strong>.
-</p>
-
-<p>
-<code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>i18n</code> ·
-<code>Dark/Light Theme</code> · <code>Open Graph</code> · <code>JSON-LD</code> · <code>Netlify</code>
-</p>
-
-<p>
-<a href="https://carlosgabriel.netlify.app/"><strong>Visitar portfólio ↗</strong></a> ·
-<a href="https://github.com/CarlossgLuz/portfolio_profissional">Código ↗</a>
-</p>
-
-</td>
-</tr>
-</table>
+[**Visitar portfólio ↗**](https://carlosgabriel.netlify.app/) ·
+[Código ↗](https://github.com/CarlossgLuz/portfolio_profissional)
 
 ---
 
-## `06 // education`
+## `05 // credentials`
 
-<table>
-<tr>
-<td width="55%" valign="top">
+### Formação
 
-<h3>Formação</h3>
+**Análise e Desenvolvimento de Sistemas — UNICID**  
+`jun/2026 → previsão jun/2027` · Em andamento
 
-<p>
-<strong>Análise e Desenvolvimento de Sistemas</strong><br>
-Universidade Cidade de São Paulo — <strong>UNICID</strong><br>
-<code>jun/2026 → previsão jun/2027</code> · Em andamento
-</p>
+**Técnico em Desenvolvimento de Sistemas — SENAI São Paulo**  
+`jul/2024 → jun/2026` · Concluído
 
-<p>
-<strong>Técnico em Desenvolvimento de Sistemas</strong><br>
-<strong>SENAI São Paulo</strong><br>
-<code>jul/2024 → jun/2026</code> · Concluído
-</p>
+**Técnico em Informática para Internet — Proz Educação**  
+`jan/2023 → dez/2024` · Concluído
 
-<p>
-<strong>Técnico em Informática para Internet</strong><br>
-<strong>Proz Educação</strong><br>
-<code>jan/2023 → dez/2024</code> · Concluído
-</p>
+### Certificações
 
-</td>
-<td width="45%" valign="top">
-
-<h3>Certificações</h3>
-
-<p>
-<strong>Microsoft Certified: Azure Fundamentals</strong><br>
-<code>AZ-900</code> · Microsoft · fev/2026
-</p>
-
-<p>
-<strong>Scrum Foundation Professional Certification</strong><br>
-<code>SFPC</code> · CertiProf · válida até out/2027
-</p>
-
-<h3>Idiomas</h3>
-
-<p>
-<strong>Português</strong> · Nativo<br>
-<strong>Inglês</strong> · Intermediário (B2)
-</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+**Microsoft Certified: Azure Fundamentals** · `AZ-900` · fev/2026  
+**Scrum Foundation Professional Certification** · `SFPC` · válida até out/2027
 
 <a href="https://www.credly.com/users/carlos-gabriel.3078ca93">
-  <img src="https://img.shields.io/badge/Ver%20credenciais-Credly-F59E0B?style=flat-square&logo=credly&logoColor=white" alt="Credenciais no Credly" />
+  <img src="https://img.shields.io/badge/Credenciais-Credly-F59E0B?style=flat-square&logo=credly&logoColor=white" alt="Credenciais no Credly" />
 </a>
 <a href="https://drive.google.com/drive/folders/1tqgqmkPdQKNs1aRKDJx9HC5pRPwwvDYn?usp=sharing">
   <img src="https://img.shields.io/badge/Certificados-Google%20Drive-0F9D58?style=flat-square&logo=google-drive&logoColor=white" alt="Certificados no Google Drive" />
 </a>
 
-</div>
+**Idiomas:** Português nativo · Inglês intermediário (B2)
 
 ---
 
-## `07 // engineering_mindset`
+## `06 // engineering mindset`
 
-<div align="center">
+```text
+product
+  └─ UX
+      └─ code
+          └─ data
+              └─ security
+                  └─ deploy
+                      └─ observe
+                          └─ improve
+```
 
-<pre>
-┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐
-│   UX    │ → │  CODE   │ → │  DATA   │ → │   SEC   │ → │   OPS   │
-└─────────┘   └─────────┘   └─────────┘   └─────────┘   └─────────┘
-      product → build → validate → deploy → observe → improve
-</pre>
-
-<strong>Software bom não termina no <code>git push</code>.</strong>
-
-<br><br>
-
-<sub>
-Meu foco é entregar soluções claras para quem usa, sustentáveis para quem mantém
-e observáveis para quem opera.
-</sub>
-
-</div>
+> Software bom não termina no `git push`. Meu foco é entregar soluções claras para quem usa, sustentáveis para quem mantém e observáveis para quem opera.
 
 ---
 
-## `08 // github_signal`
-
-<details>
-<summary><strong>Visualizar GitHub Analytics</strong></summary>
-
-<br>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarlossgLuz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossgLuz&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas no GitHub" />
-</div>
-
-</details>
-
----
-
-## `09 // connect`
-
 <div align="center">
 
-### `open --connection carlos-gabriel`
-
-Desenvolvimento de Sistemas · Full Stack · Produto · DevOps · AppSec
-
-<br><br>
+### `connect()`
 
 <a href="mailto:carlosgabriel.contato2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-carlosgabriel.contato2007%40gmail.com-B3261E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <img src="https://img.shields.io/badge/carlosgabriel.contato2007%40gmail.com-B3261E?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 <a href="https://www.linkedin.com/in/dev-carlosgabriel/">
-  <img src="https://img.shields.io/badge/LinkedIn-dev--carlosgabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/dev--carlosgabriel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://carlosgabriel.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfólio-Acessar-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/carlosgabriel.netlify.app-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
 
 <br><br>
 
-<sub>São Paulo, SP · presencial · híbrido · remoto</sub>
+<sub>São Paulo, SP · desenvolvimento de sistemas · full stack · DevOps · AppSec</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&color=0:05070B,40:0B1220,72:172554,100:2563EB" alt="" />
 
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:05070B,38:0B1220,72:172554,100:1D4ED8" alt="" />
