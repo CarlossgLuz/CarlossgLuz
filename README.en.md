@@ -2,11 +2,17 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=92&section=header&color=0:05070B,45:0B1220,78:172554,100:2563EB" alt="">
+
 # Carlos Gabriel
 
 **Junior Systems Development Analyst**
 
 `Full Stack` · `DevOps` · `Cloud` · `AppSec`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2300&pause=900&color=60A5FA&background=00000000&center=true&vCenter=true&width=760&height=42&lines=Software+Development+%E2%80%A2+Product+%E2%80%A2+UX%2FUI;DevOps+%E2%80%A2+Cloud+%E2%80%A2+Observability;AppSec+%E2%80%A2+Supply+Chain+Security+%E2%80%A2+ASPM" alt="Areas of expertise">
 
 <br>
 
@@ -25,7 +31,8 @@
 
 </div>
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## About
 
@@ -35,7 +42,8 @@ My core stack is **TypeScript, JavaScript, React, Next.js and Python**, compleme
 
 I like to understand the whole delivery lifecycle: **interface → business logic → data → security → deployment → monitoring → maintenance**.
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## Stack
 
@@ -56,7 +64,8 @@ I like to understand the whole delivery lifecycle: **interface → business logi
 **Platform** · Linux · Docker · Proxmox · Git/GitHub · Vercel · AWS · Azure · GCP  
 **Observability & security** · Zabbix · Grafana · Prometheus · SAST · SCA · DAST · ASPM · SBOM · Container Security
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## Current experience
 
@@ -81,7 +90,8 @@ I like to understand the whole delivery lifecycle: **interface → business logi
 
 </details>
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## Selected projects
 
@@ -109,7 +119,8 @@ Multilingual portfolio built with a focus on **accessibility, responsiveness, te
 
 [Visit](https://carlosgabriel.netlify.app/) · [Code](https://github.com/CarlossgLuz/portfolio_profissional)
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## Education & credentials
 
@@ -122,7 +133,8 @@ Multilingual portfolio built with a focus on **accessibility, responsiveness, te
 
 [Credly](https://www.credly.com/users/carlos-gabriel.3078ca93) · [Certificates](https://drive.google.com/drive/folders/1tqgqmkPdQKNs1aRKDJx9HC5pRPwwvDYn?usp=sharing)
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 <div align="center">
 
@@ -135,5 +147,9 @@ Multilingual portfolio built with a focus on **accessibility, responsiveness, te
 <br><br>
 
 <sub>Software development focused on clarity, maintainability, security and operations.</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=88&section=footer&color=0:05070B,45:0B1220,78:172554,100:2563EB" alt="">
 
 </div>
