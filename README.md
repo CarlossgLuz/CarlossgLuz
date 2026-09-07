@@ -2,11 +2,17 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=92&section=header&color=0:05070B,45:0B1220,78:172554,100:2563EB" alt="">
+
 # Carlos Gabriel
 
 **Analista de Desenvolvimento de Sistemas Jr.**
 
 `Full Stack` · `DevOps` · `Cloud` · `AppSec`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2300&pause=900&color=60A5FA&background=00000000&center=true&vCenter=true&width=760&height=42&lines=Desenvolvimento+de+Software+%E2%80%A2+Produto+%E2%80%A2+UX%2FUI;DevOps+%E2%80%A2+Cloud+%E2%80%A2+Observabilidade;AppSec+%E2%80%A2+Supply+Chain+Security+%E2%80%A2+ASPM" alt="Áreas de atuação">
 
 <br>
 
@@ -25,7 +31,8 @@
 
 </div>
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## Sobre
 
@@ -35,7 +42,8 @@ Minha base principal é **TypeScript, JavaScript, React, Next.js e Python**, com
 
 Gosto de acompanhar a entrega de ponta a ponta: **interface → regra de negócio → dados → segurança → deploy → monitoramento → manutenção**.
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## Stack
 
@@ -56,7 +64,8 @@ Gosto de acompanhar a entrega de ponta a ponta: **interface → regra de negóci
 **Plataforma** · Linux · Docker · Proxmox · Git/GitHub · Vercel · AWS · Azure · GCP  
 **Observabilidade & segurança** · Zabbix · Grafana · Prometheus · SAST · SCA · DAST · ASPM · SBOM · Container Security
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## Experiência atual
 
@@ -81,7 +90,8 @@ Gosto de acompanhar a entrega de ponta a ponta: **interface → regra de negóci
 
 </details>
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## Projetos selecionados
 
@@ -109,7 +119,8 @@ Portfólio multilíngue desenvolvido com foco em **acessibilidade, responsividad
 
 [Acessar](https://carlosgabriel.netlify.app/) · [Código](https://github.com/CarlossgLuz/portfolio_profissional)
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 ## Formação & credenciais
 
@@ -122,7 +133,8 @@ Portfólio multilíngue desenvolvido com foco em **acessibilidade, responsividad
 
 [Credly](https://www.credly.com/users/carlos-gabriel.3078ca93) · [Certificados](https://drive.google.com/drive/folders/1tqgqmkPdQKNs1aRKDJx9HC5pRPwwvDYn?usp=sharing)
 
----
+
+<img width="100%" src="./images/animated-divider.svg" alt="">
 
 <div align="center">
 
@@ -135,5 +147,9 @@ Portfólio multilíngue desenvolvido com foco em **acessibilidade, responsividad
 <br><br>
 
 <sub>Desenvolvimento de software com foco em clareza, manutenção, segurança e operação.</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=88&section=footer&color=0:05070B,45:0B1220,78:172554,100:2563EB" alt="">
 
 </div>
