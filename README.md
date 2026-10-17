@@ -1,14 +1,14 @@
 <!-- Carlos Gabriel · perfil profissional -->
 
+<a href="./README.md"><img src="./images/language-pt-active.svg" width="120" height="27" alt="Português — idioma atual"></a>
+<a href="./README.en.md"><img src="./images/language-en-idle.svg" width="120" height="27" alt="English — mudar idioma"></a>
+
 <picture>
   <img src="./images/terminal-header.svg" width="100%" alt="Carlos Gabriel — AppSec, ASPM e DevSecOps. Sua logo em arte ASCII, branco e amarelo sobre fundo escuro.">
 </picture>
 
 **Analista de Desenvolvimento de Sistemas Jr. · Xmart Solutions**<br>
 Segurança de aplicações, automação e engenharia de software.
-
-<a href="./README.md"><img src="./images/language-pt-active.svg" width="168" height="38" alt="Português — idioma atual"></a>
-<a href="./README.en.md"><img src="./images/language-en-idle.svg" width="168" height="38" alt="English — mudar idioma"></a>
 
 [Portfólio](https://carlosg.com.br) · [LinkedIn](https://www.linkedin.com/in/dev-carlosgabriel/) · [Email](mailto:carlosgabriel.contato2007@gmail.com)
 
