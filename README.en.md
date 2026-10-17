@@ -1,155 +1,97 @@
-<!-- Carlos Gabriel · GitHub Profile -->
+<!-- Carlos Gabriel · professional profile -->
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=92&section=header&color=0:05070B,45:0B1220,78:172554,100:2563EB" alt="">
+<picture>
+  <img src="./images/terminal-header.svg" width="100%" alt="Carlos Gabriel — AppSec, ASPM and DevSecOps. CG ASCII monogram in white and yellow on a dark background.">
+</picture>
 
 # Carlos Gabriel
 
-**Junior Systems Development Analyst**
+**Junior Systems Development Analyst · Xmart Solutions**<br>
+Application security, automation, and software engineering.
 
-`Full Stack` · `DevOps` · `Cloud` · `AppSec`
+[PT-BR](./README.md) · **[English](./README.en.md)**<br>
+[Portfolio](https://carlosg.com.br) · [LinkedIn](https://www.linkedin.com/in/dev-carlosgabriel/) · [Email](mailto:carlosgabriel.contato2007@gmail.com)
 
-<br>
+```text
+$ whoami
+  Carlos Gabriel / São Paulo, Brazil
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2300&pause=900&color=60A5FA&background=00000000&center=true&vCenter=true&width=760&height=42&lines=Software+Development+%E2%80%A2+Product+%E2%80%A2+UX%2FUI;DevOps+%E2%80%A2+Cloud+%E2%80%A2+Observability;AppSec+%E2%80%A2+Supply+Chain+Security+%E2%80%A2+ASPM" alt="Areas of expertise">
+$ focus
+  investigate risks · validate controls
+  automate checks · collect evidence
+```
 
-<br>
+## What I do
 
-<a href="./README.md"><img src="https://img.shields.io/badge/PT--BR-111827?style=for-the-badge" alt="Português"></a>
-<a href="./README.en.md"><img src="https://img.shields.io/badge/EN-2563EB?style=for-the-badge" alt="English"></a>
+At **Xmart Solutions**, I contribute to **XGuardian**, an AppSec and ASPM platform. My work covers vulnerability reports and analysis workflows, metrics, and access controls, connecting security needs to development and operations.
 
-<br><br>
+- **Vulnerabilities:** putting SAST, SCA, DAST, Container Security, and SBOM findings in context using OWASP, NVD, CVE/CWE, CVSS, and GitHub Advisory Database.
+- **Access controls:** contributing to RBAC requirements and development, including roles, permissions, and protection of operations and APIs, in collaboration with the team.
+- **Release automation:** developing QA to validate features, permissions, integrations, and pipelines through APIs, with controlled execution, evidence collection, and traceability.
+- **Software supply chain:** technical support, testing, troubleshooting, and documentation for the Sonatype ecosystem, plus hands-on evaluation of Xygeni capabilities.
+- **Applied AI:** integrating models, agents, and tools through APIs and MCP for investigation, QA, and documentation, with attention to context, credentials, and governance.
 
-<a href="https://carlosgabriel.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/dev-carlosgabriel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:carlosgabriel.contato2007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+My background in **Python, TypeScript, CI/CD, Linux, and observability** supports this work. Interfaces and APIs are part of the delivery, alongside investigating system behavior and risk.
 
-<br><br>
+## Selected work
 
-<sub>São Paulo, Brazil · building software from product to operations</sub>
+### 01 / XGuardian
 
-</div>
+**AppSec · ASPM · professional experience**
 
+Refining security reports, metrics, and findings analysis workflows; contributing to RBAC development and the internal platform redesign. I also rebuilt the corporate website in 2026, working on UI/UX, responsiveness, and SEO.
 
-<img width="100%" src="./images/animated-divider.svg" alt="">
+[Corporate website](https://www.xguardianplatform.io/) · [Work and screenshots](https://carlosg.com.br/#projects)
 
-## About
+### 02 / Release QA
 
-Developer with hands-on experience across **product, web development, infrastructure and application security**. I currently work at **Xmart Solutions** as a **Junior Systems Development Analyst**, contributing to SaaS platforms, web interfaces, internal systems and AppSec solutions.
+**Automation · APIs · internal initiative in development**
 
-My core stack is **TypeScript, JavaScript, React, Next.js and Python**, complemented by practical experience with **Linux, Docker, cloud, observability, databases and Software Supply Chain Security**.
+A solution for XGuardian pre- and post-release checks, reducing reliance on manual testing. Validation of features, permissions, integrations, and pipelines, with evidence collection and execution traceability.
 
-I like to understand the whole delivery lifecycle: **interface → business logic → data → security → deployment → monitoring → maintenance**.
+[Portfolio overview](https://carlosg.com.br/#projects)
 
+### 03 / Open-Vaultin
 
-<img width="100%" src="./images/animated-divider.svg" alt="">
+**Agents · skills · AI governance · open source**
 
-## Stack
+Organization and versioning of context, rules, skills, and agent configurations. Model routing and AI-assisted workflows focused on predictable execution.
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,html,css,tailwind" alt="Development">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,docker,linux,git,github,aws,azure,gcp" alt="Data and platform">
-
-</div>
-
-<br>
-
-**Frontend** · React · Next.js · React Native · Expo · Tailwind CSS · UX/UI  
-**Backend & data** · Node.js · Python · FastAPI · PostgreSQL · SQLite · Supabase · Prisma · SQLAlchemy  
-**Platform** · Linux · Docker · Proxmox · Git/GitHub · Vercel · AWS · Azure · GCP  
-**Observability & security** · Zabbix · Grafana · Prometheus · SAST · SCA · DAST · ASPM · SBOM · Container Security
-
-
-<img width="100%" src="./images/animated-divider.svg" alt="">
-
-## Current experience
-
-### Xmart Solutions
-
-**Junior Systems Development Analyst** · `Jun/2026 → present`
-
-- Development and maintenance of **SaaS platforms, web interfaces and internal systems**.
-- Work with **Python, JavaScript/TypeScript, React and REST APIs**.
-- Practical experience with **AppSec, SAST, SCA, DAST, ASPM, containers, IaC and Secrets**.
-- Administration and troubleshooting of **Linux, Proxmox and infrastructure environments**.
-- Monitoring and observability with **Zabbix, Grafana and Prometheus**.
-- Work with **Sonatype Nexus Repository, Lifecycle/IQ and Software Supply Chain Security**.
+[Code and documentation](https://github.com/CarlossgLuz/Open-Vaultin)
 
 <details>
-<summary><strong>Career path at Xmart</strong></summary>
+<summary><strong>More engineering work</strong></summary>
 
-<br>
-
-**Systems Development Intern** · `Dec/2025 → Jun/2026`  
-**Junior Systems Development Analyst** · `Jun/2026 → present`
+- **[Clarium](https://github.com/CarlossgLuz/controle-fatura):** personal finance app built with React Native, Expo, TypeScript, and SQLite. [Landing page](https://github.com/CarlossgLuz/landingpage_clarium).
+- **Toca dos Pés:** freelance clinic management project covering scheduling, finance, inventory, medical records, and permissions. Private client code.
+- **[Portfolio](https://github.com/CarlossgLuz/portfolio_profissional):** multilingual website with accessibility, responsive design, technical SEO, and a custom visual identity.
 
 </details>
 
+## Technical foundation
 
-<img width="100%" src="./images/animated-divider.svg" alt="">
+**Application security**<br>
+ASPM · SAST / SCA / DAST · Container Security · SBOM · RBAC · EOL · Software Supply Chain Security
 
-## Selected projects
+**Automation and integrations**<br>
+Python · REST APIs · MCP · GitHub Actions · GitLab CI/CD · agents and LLMs
 
-### Clarium
+**Engineering and operations**<br>
+TypeScript / JavaScript · React / Next.js · SQL · Git · Linux · Docker · Proxmox · AWS / Azure · Zabbix / Grafana / Prometheus
 
-Personal finance application for income, expenses, credit card purchases and monthly planning, accompanied by a multilingual landing page.
+**Studies and validations**<br>
+Semgrep · OWASP ZAP · Gitleaks · Dependabot
 
-`React Native` `Expo` `TypeScript` `SQLite` `Next.js` `Tailwind CSS`
+## Education and credentials
 
-[Product](https://clarium.vercel.app/) · [App](https://github.com/CarlossgLuz/controle-fatura) · [Landing page](https://github.com/CarlossgLuz/landingpage_clarium)
-
-### Toca dos Pés
-
-Full Stack management system for a podiatry clinic, covering scheduling, clients, professionals, inventory, finance, medical records and reports.
-
-`Next.js` `React` `TypeScript` `PostgreSQL` `Supabase` `Prisma` `RBAC` `Vercel`
-
-<sub>Private client/staging project.</sub>
-
-### Professional portfolio
-
-Multilingual portfolio built with a focus on **accessibility, responsiveness, technical SEO, visual identity and performance**.
-
-`HTML` `CSS` `JavaScript` `i18n` `Open Graph` `JSON-LD` `Netlify`
-
-[Visit](https://carlosgabriel.netlify.app/) · [Code](https://github.com/CarlossgLuz/portfolio_profissional)
-
-
-<img width="100%" src="./images/animated-divider.svg" alt="">
-
-## Education & credentials
-
-- **Systems Analysis and Development** — UNICID · `2026 → 2027`
-- **Technical Degree in Systems Development** — SENAI São Paulo · completed in `2026`
-- **Technical Degree in Internet Computing** — Proz Educação · completed in `2024`
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **Scrum Foundation Professional Certification (SFPC)**
-- **English B2**
+- **Systems Analysis and Development — UNICID:** in progress, expected Jun/2027.
+- **Technical Diploma in Systems Development — SENAI:** completed in 2026.
+- **Technical Diploma in Internet Computing — Proz:** completed in 2024.
+- **Microsoft Azure Fundamentals — AZ-900** · **Scrum Foundation — SFPC**.
+- **English B2:** documentation and technical meetings, with ongoing improvement.
 
 [Credly](https://www.credly.com/users/carlos-gabriel.3078ca93) · [Certificates](https://drive.google.com/drive/folders/1tqgqmkPdQKNs1aRKDJx9HC5pRPwwvDYn?usp=sharing)
 
+---
 
-<img width="100%" src="./images/animated-divider.svg" alt="">
-
-<div align="center">
-
-### Contact
-
-<a href="mailto:carlosgabriel.contato2007@gmail.com"><img src="https://img.shields.io/badge/carlosgabriel.contato2007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/dev-carlosgabriel/"><img src="https://img.shields.io/badge/dev--carlosgabriel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://carlosgabriel.netlify.app/"><img src="https://img.shields.io/badge/carlosgabriel.netlify.app-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-
-<br><br>
-
-<sub>Software development focused on clarity, maintainability, security and operations.</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=88&section=footer&color=0:05070B,45:0B1220,78:172554,100:2563EB" alt="">
-
-</div>
+**Understand the system. Investigate the risk. Build responsibly.**
