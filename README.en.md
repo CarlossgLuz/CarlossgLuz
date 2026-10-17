@@ -1,24 +1,25 @@
 <!-- Carlos Gabriel · professional profile -->
 
 <picture>
-  <img src="./images/terminal-header.svg" width="100%" alt="Carlos Gabriel — AppSec, ASPM and DevSecOps. CG ASCII monogram in white and yellow on a dark background.">
+  <img src="./images/terminal-header.svg" width="100%" alt="Carlos Gabriel — AppSec, ASPM and DevSecOps. Official logo in ASCII in white and yellow on a dark background.">
 </picture>
-
-# Carlos Gabriel
 
 **Junior Systems Development Analyst · Xmart Solutions**<br>
 Application security, automation, and software engineering.
 
-[PT-BR](./README.md) · **[English](./README.en.md)**<br>
+<a href="./README.md"><img src="./images/language-pt-idle.svg" width="168" height="38" alt="Português — change language"></a>
+<a href="./README.en.md"><img src="./images/language-en-active.svg" width="168" height="38" alt="English — current language"></a>
+
 [Portfolio](https://carlosg.com.br) · [LinkedIn](https://www.linkedin.com/in/dev-carlosgabriel/) · [Email](mailto:carlosgabriel.contato2007@gmail.com)
 
-```text
-$ whoami
-  Carlos Gabriel / São Paulo, Brazil
-
-$ focus
-  investigate risks · validate controls
-  automate checks · collect evidence
+```json
+{
+  "role": "Junior Systems Development Analyst",
+  "team": "Xmart Solutions",
+  "focus": ["AppSec", "ASPM", "DevSecOps"],
+  "approach": ["investigate", "validate", "automate"],
+  "foundation": ["software", "Linux", "observability"]
+}
 ```
 
 ## What I do
@@ -32,6 +33,8 @@ At **Xmart Solutions**, I contribute to **XGuardian**, an AppSec and ASPM platfo
 - **Applied AI:** integrating models, agents, and tools through APIs and MCP for investigation, QA, and documentation, with attention to context, credentials, and governance.
 
 My background in **Python, TypeScript, CI/CD, Linux, and observability** supports this work. Interfaces and APIs are part of the delivery, alongside investigating system behavior and risk.
+
+<img src="./images/security-workflow.svg" width="100%" alt="Vulnerability context, access controls, release validation and evidence.">
 
 ## Selected work
 
@@ -69,6 +72,17 @@ Organization and versioning of context, rules, skills, and agent configurations.
 </details>
 
 ## Technical foundation
+
+<p>
+<img src="./images/icons/python.svg" width="72" height="78" alt="Python" title="Python">
+<img src="./images/icons/typescript.svg" width="72" height="78" alt="TypeScript" title="TypeScript">
+<img src="./images/icons/react.svg" width="72" height="78" alt="React" title="React">
+<img src="./images/icons/git.svg" width="72" height="78" alt="Git" title="Git">
+<img src="./images/icons/linux.svg" width="72" height="78" alt="Linux" title="Linux">
+<img src="./images/icons/docker.svg" width="72" height="78" alt="Docker" title="Docker">
+<img src="./images/icons/githubactions.svg" width="72" height="78" alt="GitHub Actions" title="GitHub Actions">
+<img src="./images/icons/gitlab.svg" width="72" height="78" alt="GitLab CI/CD" title="GitLab CI/CD">
+</p>
 
 **Application security**<br>
 ASPM · SAST / SCA / DAST · Container Security · SBOM · RBAC · EOL · Software Supply Chain Security

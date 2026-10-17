@@ -1,24 +1,25 @@
 <!-- Carlos Gabriel · perfil profissional -->
 
 <picture>
-  <img src="./images/terminal-header.svg" width="100%" alt="Carlos Gabriel — AppSec, ASPM e DevSecOps. Monograma CG em arte ASCII, branco e amarelo sobre fundo escuro.">
+  <img src="./images/terminal-header.svg" width="100%" alt="Carlos Gabriel — AppSec, ASPM e DevSecOps. Sua logo em arte ASCII, branco e amarelo sobre fundo escuro.">
 </picture>
-
-# Carlos Gabriel
 
 **Analista de Desenvolvimento de Sistemas Jr. · Xmart Solutions**<br>
 Segurança de aplicações, automação e engenharia de software.
 
-**[PT-BR](./README.md)** · [English](./README.en.md)<br>
+<a href="./README.md"><img src="./images/language-pt-active.svg" width="168" height="38" alt="Português — idioma atual"></a>
+<a href="./README.en.md"><img src="./images/language-en-idle.svg" width="168" height="38" alt="English — mudar idioma"></a>
+
 [Portfólio](https://carlosg.com.br) · [LinkedIn](https://www.linkedin.com/in/dev-carlosgabriel/) · [Email](mailto:carlosgabriel.contato2007@gmail.com)
 
-```text
-$ whoami
-  Carlos Gabriel / São Paulo, Brasil
-
-$ focus
-  investigar riscos · validar controles
-  automatizar verificações · registrar evidências
+```json
+{
+  "cargo": "Analista de Desenvolvimento de Sistemas Jr.",
+  "equipe": "Xmart Solutions",
+  "foco": ["AppSec", "ASPM", "DevSecOps"],
+  "metodo": ["investigar", "validar", "automatizar"],
+  "base": ["software", "Linux", "observabilidade"]
+}
 ```
 
 ## Atuação
@@ -32,6 +33,8 @@ Na **Xmart Solutions**, contribuo para o **XGuardian**, plataforma de AppSec e A
 - **IA aplicada:** integração de modelos, agentes e ferramentas por APIs e MCP para investigação, QA e documentação, com atenção a contexto, credenciais e governança.
 
 Minha base em **Python, TypeScript, CI/CD, Linux e observabilidade** sustenta esse trabalho. Desenvolvimento de interfaces e APIs faz parte da entrega, junto à investigação do comportamento e dos riscos do sistema.
+
+<img src="./images/security-workflow.svg" width="100%" alt="Contextualizar vulnerabilidades, controlar acessos, validar releases e registrar evidências.">
 
 ## Projetos em foco
 
@@ -69,6 +72,17 @@ Organização e versionamento de contexto, regras, skills e configurações de a
 </details>
 
 ## Base técnica
+
+<p>
+<img src="./images/icons/python.svg" width="72" height="78" alt="Python" title="Python">
+<img src="./images/icons/typescript.svg" width="72" height="78" alt="TypeScript" title="TypeScript">
+<img src="./images/icons/react.svg" width="72" height="78" alt="React" title="React">
+<img src="./images/icons/git.svg" width="72" height="78" alt="Git" title="Git">
+<img src="./images/icons/linux.svg" width="72" height="78" alt="Linux" title="Linux">
+<img src="./images/icons/docker.svg" width="72" height="78" alt="Docker" title="Docker">
+<img src="./images/icons/githubactions.svg" width="72" height="78" alt="GitHub Actions" title="GitHub Actions">
+<img src="./images/icons/gitlab.svg" width="72" height="78" alt="GitLab CI/CD" title="GitLab CI/CD">
+</p>
 
 **Segurança de aplicações**<br>
 ASPM · SAST / SCA / DAST · Container Security · SBOM · RBAC · EOL · Software Supply Chain Security

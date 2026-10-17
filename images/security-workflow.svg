@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
+<title id="title">Security in the development lifecycle</title>
+<desc id="desc">Four connected illustrations: investigate findings, control access, validate releases and collect evidence.</desc>
+<rect x=".5" y=".5" width="959" height="189" rx="12" fill="#080808" stroke="#303030"/>
+<g stroke="#ffde59" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M175 83H290M415 83H530M655 83H770" stroke="#444" stroke-dasharray="4 6"/>
+<rect x="55" y="37" width="120" height="84" rx="8" stroke="#444"/>
+<path d="M55 56H175M65 47H70M78 47H83M92 47H97" stroke="#777"/>
+<path d="m77 78-8 8 8 8m19-16 8 8-8 8m-10-18-5 20"/>
+<circle cx="137" cy="86" r="15"/><path d="m148 97 13 13"/>
+<path d="m354 35 34 12v28c0 25-18 39-34 48-16-9-34-23-34-48V47Z"/>
+<rect x="342" y="72" width="24" height="21" rx="3"/><path d="M347 72v-8a7 7 0 0 1 14 0v8M354 81v5"/>
+<rect x="539" y="43" width="96" height="76" rx="9" stroke="#444"/>
+<path d="m564 81 14 14 29-33M552 108H621"/>
+<rect x="784" y="37" width="76" height="86" rx="8" stroke="#444"/>
+<path d="m798 61 4 4 8-8m-12 26 4 4 8-8m-12 26 4 4 8-8M821 62H846M821 84H846M821 106H846"/>
+</g>
+<g font-family="monospace" text-anchor="middle" font-size="15" fill="#eee">
+<text x="115" y="154">01 / FINDINGS</text><text x="354" y="154">02 / CONTROLS</text><text x="587" y="154">03 / VALIDATION</text><text x="822" y="154">04 / EVIDENCE</text>
+</g>
+</svg>
