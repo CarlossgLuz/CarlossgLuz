@@ -56,11 +56,19 @@ A solution for XGuardian pre- and post-release checks, reducing reliance on manu
 
 ### 03 / Open-Vaultin
 
-**Agents · skills · AI governance · open source**
+**AI Agent Harness Governance · Python · MCP · JEV/TypeSafe · open source (Early V1)**
 
-Organization and versioning of context, rules, skills, and agent configurations. Model routing and AI-assisted workflows focused on predictable execution.
+An independent, **continuously evolving open-source** project focused on harness engineering for AI agents. Vaultin provides a *local-first* governance and durable-knowledge layer: agent/skill registries, authorization policies, Codex lifecycle hooks, task routing with the **JEV/TypeSafe decision model** and deterministic fallback, execution ledger, evidence, and Git/MCP synchronization. Routing is advisory and policy checks are separate. The host retains the primary agent loop, and enforcement depends on integration capabilities.
 
-[Code and documentation](https://github.com/CarlossgLuz/Open-Vaultin)
+[Repository and documentation](https://github.com/CarlossgLuz/Open-Vaultin) · [Architecture](https://github.com/CarlossgLuz/Open-Vaultin/blob/main/docs/architecture.md)
+
+### 04 / APIsec
+
+**AppSec · OWASP API Security Top 10 (2023) · FastAPI · independent project**
+
+A public laboratory exploring **BOLA, BFLA, and BOPLA**. It compares vulnerable and protected APIs in isolated, synthetic-data scenarios, generates JSON/Markdown evidence, and runs **Pytest, Ruff, Bandit, GitHub Actions, and Docker** checks. It does not scan third-party systems; the documented AWS topology is a proposal and has not been deployed.
+
+[Source code, tests, and documentation](https://github.com/CarlossgLuz/APIsec-LabTest)
 
 <details>
 <summary><strong>More engineering work</strong></summary>
