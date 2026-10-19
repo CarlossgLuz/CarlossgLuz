@@ -56,11 +56,19 @@ Solução para verificações pré e pós-release do XGuardian, reduzindo a depe
 
 ### 03 / Open-Vaultin
 
-**Agentes · skills · governança de IA · código aberto**
+**AI Agent Harness Governance · Python · MCP · JEV/TypeSafe · open source (Early V1)**
 
-Organização e versionamento de contexto, regras, skills e configurações de agentes. Roteamento de modelos e fluxos assistidos por IA com foco na previsibilidade das execuções.
+Projeto autoral e independente, **open source e em evolução contínua**, voltado à engenharia de harness para agentes de IA. O Vaultin implementa uma camada *local-first* de governança e conhecimento persistente: catálogo de agentes e skills, políticas de autorização, hooks do ciclo de vida do Codex, roteamento de tarefas com **modelo decisor JEV/TypeSafe** e fallback determinístico, ledger de execuções, evidências e sincronização Git/MCP. O roteamento é consultivo; as políticas são avaliadas separadamente. O cliente continua responsável pelo loop principal e a capacidade de enforcement depende da integração.
 
-[Código e documentação](https://github.com/CarlossgLuz/Open-Vaultin)
+[Repositório e documentação](https://github.com/CarlossgLuz/Open-Vaultin) · [Arquitetura](https://github.com/CarlossgLuz/Open-Vaultin/blob/main/docs/architecture.md)
+
+### 04 / APIsec
+
+**AppSec · OWASP API Security Top 10 (2023) · FastAPI · projeto autoral**
+
+Laboratório público para estudar e demonstrar **BOLA, BFLA e BOPLA**. Compara APIs vulneráveis e protegidas em cenários isolados com dados fictícios, gera evidências em JSON/Markdown e executa verificações com **Pytest, Ruff, Bandit, GitHub Actions e Docker**. Não executa scans contra terceiros e a topologia AWS documentada é apenas uma proposta, ainda não provisionada.
+
+[Código, testes e documentação](https://github.com/CarlossgLuz/APIsec-LabTest)
 
 <details>
 <summary><strong>Outras entregas de engenharia</strong></summary>
